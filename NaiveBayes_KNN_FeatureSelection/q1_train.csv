@@ -1,0 +1,11 @@
+Instance,Education Level,Career,Years of Experience,Salary
+1,High School,Management,Less than 3,Low
+2,High School,Management,3 to 10,Low
+3,College,Management,Less than 3,High
+4,College,Service,More than 10,Low
+5,High School,Service,3 to 10,Low
+6,College,Service,3 to 10,High
+7,College,Management,More than 10,High
+8,College,Service,Less than 3,Low
+9,High School,Management,More than 10,High
+10,High School,Service,More than 10,Low
